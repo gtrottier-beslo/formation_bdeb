@@ -1,4 +1,4 @@
-# formation_bdeb
+# Formation IA Bois-de-Boulogne
 ## Matériel pour formation @ BdeB
 
 Liens vers documentation utile pour exercices
